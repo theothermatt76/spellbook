@@ -1,5 +1,5 @@
 # spellbook
-A searchable, customizable red team/ctf tome of dark incantations. Basically just commands I use all the time and need documented somehwere besides my history file. This is just the bones, more coming someday
+A searchable, customizable red team/ctf tome of dark incantations. Basically just commands I use all the time and need documented somewhere besides my history file. This is just the bones, more coming someday
 
 - Uses Docker Compose for easy up/down on any machine
 - Web interface (http://localhost:88/index.php)
